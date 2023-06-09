@@ -18,7 +18,7 @@ const App = () => {
       <Testimonial />
       <Reservation />
       <Footer />
-      <div className='h-[380px] md:h-[370px]'></div>
+
     </div>
   );
 };
